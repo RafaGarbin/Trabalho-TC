@@ -1,0 +1,80 @@
+
+.topo{ background: #6699cc;
+	border-width:3px;
+	border-style: solid;
+	border-color: black;
+
+}
+#colegio1 {    width: 100%;}
+
+.principal{
+   background: #99ccff;
+    padding: 15px;
+	
+	border-width:3px;
+	border-style: solid;
+	border-color: black;
+
+
+	}
+h1 {font-size:55px;text-align:center;color:blue}
+
+p {font-size:30px;text-align:left}
+
+#pagina{text-align:center;} 
+#criador{text-align:center;font-size: 20px} 
+em strong {
+    color: #990000;}
+
+h2 {font-size:35px;text-align:center;color:#663300}
+h3 {font-size:35px;text-align:center;color:#663300}
+
+
+
+.menu{
+    background: #6699cc;
+     padding: 15px;
+
+     border-width:3px;
+	border-style: solid;
+	border-color: black;
+	}
+
+#lista1
+.itens{ font-style: black; font-size:25px}
+
+
+  ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    margin: 0 auto;
+}
+
+#lista2
+.itens{ font-style: black; font-size:25px}
+
+
+  ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    margin: 0 auto;
+}
+.foto{
+    width: 20%;}
+
+  
+.história{
+    background: #3366cc;
+	 padding: 15px;
+
+	 border-width:3px;
+	border-style: solid;
+	border-color: black;
+	}
+
+.colegioantigo1{
+    width: 100%;}
+
+
