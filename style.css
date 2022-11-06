@@ -73,7 +73,10 @@ h3 {font-size:35px;text-align:center;color:#663300}
 	border-style: solid;
 	border-color: black;
 	}
-
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
 .colegioantigo1{
     width: 100%;}
 
